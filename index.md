@@ -18,7 +18,7 @@ Here is information about your loan history and current balance. Enjoy!
 
 ### More Details
 
-2012 Ford Focus
+2012 Ford Focus  
 Car price:	        $8,900.00  
 Taxes:    	        $759.08  
 Title fee:	        $14.50  
