@@ -2,12 +2,11 @@
 
 Here is information about your loan history and current balance. Enjoy!
 
-### 2012 Ford Focus
+### Payment History
 
 | Payment Date | Payment Amount | Applied to loan | Applied to Insurance | Overpay for taxes | Loan Remaining | Tax Pool |
 | ------------ | -------------- | --------------- | -------------------- | ----------------- | -------------- | -------- |
-|              |                |                 |                      |                   | $5,900.00      | $0.00    |
-| 8/18/21      | $3,000.00      | $3,000.00       | $0.00                | $0.00             | $2,900.00      |          |
+|              |                |                 |                      |                   | $2,900.00      |          |
 | 8/18/21      | $175.00        | $120.84         | $50.00               | $4.17             | $2,779.17      | $4.17    |
 | 9/1/21       | $175.00        | $120.84         | $50.00               | $4.17             | $2,658.33      | $8.33    |
 | 9/6/21       | $175.00        | $120.84         | $50.00               | $4.17             | $2,537.50      | $12.50   |
@@ -19,21 +18,22 @@ Here is information about your loan history and current balance. Enjoy!
 
 ### More Details
 
+2012 Ford Focus
 Car price:	        $8,900.00  
 Taxes:    	        $759.08  
 Title fee:	        $14.50  
 Transaction fee:	$44.47  
-Total:	            	$9,718.05  
+Total paid:	        $9,718.05  
 	
+Deductions  
+Your Savings:     	-$2,000.00  
+Mom:	               	-$1,000.00  
+Dad match:           	-$3,000.00  
+Dad pays +tax:    	-$818.05  
+Total:            	-$6,818.05  
 	
-Your Savings:     	$2,000.00  
-Mom:	               	$1,000.00  
-Dad match:           	$3,000.00  
-Dad pays +tax:    	$818.05  
-Total:            	$6,818.05  
-	
-Remaining:        	 $2,900.00  
-Loan Rate:           	 0%  
+Remaining Loan:        	 **$2,900.00** ($9,718.05 - $6,818.05)   
+Loan Rate:           	 **0%**  
 	
 12 Monthly Payments  
 Applied to loan:	$241.67  
