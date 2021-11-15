@@ -1,8 +1,8 @@
-## Welcome to Caiti's Loan!
+# Welcome to Caiti's Loan!
 
 Here is information about your loan history and current balance. Enjoy!
 
-### Payment History
+## Payment History
 
 | Payment Date | Payment Amount | Applied to loan | Applied to Insurance | Overpay for taxes | Loan Remaining | Tax Pool |
 | ------------ | -------------- | --------------- | -------------------- | ----------------- | -------------- | -------- |
@@ -16,9 +16,9 @@ Here is information about your loan history and current balance. Enjoy!
 | 11/1/21      | $175.00        | $120.84         | $50.00               | $4.17             | $2,054.16      | $29.16   |
 | 11/15/21     | $175.00        | $120.84         | $50.00               | $4.17             | **$1,933.32**      | $33.32   |
 
-### More Details
+## More Details
 
-2012 Ford Focus  
+**2012 Ford Focus**  
 Car price:	        $8,900.00  
 Taxes:    	        $759.08  
 Title fee:	        $14.50  
@@ -35,7 +35,7 @@ Total:            	-$6,818.05
 Remaining Loan:        	 **$2,900.00** ($9,718.05 - $6,818.05)   
 Loan Rate:           	 **0%**  
 	
-12 Monthly Payments  
+### Monthly Payments Breakdown  
 Applied to loan:	$241.67  
 Insurance:           	$100.00  
 Total Monthly:       	$341.67  
