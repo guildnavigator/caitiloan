@@ -19,27 +19,27 @@ Here is information about your loan history and current balance. Enjoy!
 
 ### More Details
 
-Car price:	        $8,900.00 
-Taxes:    	        $759.08 
-Title fee:	        $14.50 
-Transaction fee:	  $44.47 
-Total:	            $9,718.05 
+Car price:	        $8,900.00  
+Taxes:    	        $759.08  
+Title fee:	        $14.50  
+Transaction fee:	$44.47  
+Total:	            	$9,718.05  
 	
 	
-Your Savings:     	 $2,000.00 
-Mom:	               $1,000.00 
-Dad match:           $3,000.00 
-Dad pays +tax:    	 $818.05 
-Total:            	 $6,818.05 
+Your Savings:     	$2,000.00  
+Mom:	               	$1,000.00  
+Dad match:           	$3,000.00  
+Dad pays +tax:    	$818.05  
+Total:            	$6,818.05  
 	
-Remaining:        	 $2,900.00 
-Loan Rate:           0%
+Remaining:        	 $2,900.00  
+Loan Rate:           	 0%  
 	
-12 Monthly Payments
-Applied to loan:	   $241.67 
-Insurance:           $100.00 
-Total Monthly:       $341.67 
+12 Monthly Payments  
+Applied to loan:	$241.67  
+Insurance:           	$100.00  
+Total Monthly:       	$341.67  
 	
-Round up:            $350.00
-Overage applied 
-to property taxes:	 $8.33 
+Round up:            	$350.00  
+Overage applied  
+to property taxes:	$8.33 
