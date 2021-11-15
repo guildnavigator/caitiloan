@@ -32,10 +32,11 @@ Dad match:           	-$3,000.00
 Dad pays +tax:    	-$818.05  
 Total:            	-$6,818.05  
 	
-Remaining Loan:        	 **$2,900.00** ($9,718.05 - $6,818.05)   
+Loan Amount:        	 **$2,900.00** ($9,718.05 - $6,818.05)   
 Loan Rate:           	 **0%**  
 	
 ### Monthly Payments Breakdown  
+Number of payments:	12
 Applied to loan:	$241.67  
 Insurance:           	$100.00  
 Total Monthly:       	$341.67  
@@ -43,3 +44,13 @@ Total Monthly:       	$341.67
 Round up:            	$350.00  
 Overage applied  
 to property taxes:	$8.33 
+
+### Bi-Monthly Payments Breakdown (if paying twice a month)
+Number of payments:	24
+Applied to loan:	$120.84  
+Insurance:           	$50.00  
+Total Monthly:       	$170.84  
+	
+Round up:            	$175.00  
+Overage applied  
+to property taxes:	$4.17 
