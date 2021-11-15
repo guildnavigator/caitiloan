@@ -3,6 +3,7 @@
 Here is information about your loan history and current balance. Enjoy!
 
 ## Payment History
+*Scroll table for more info*
 
 | Payment Date | Payment Amount | Applied to loan | Applied to Insurance | Overpay for taxes | Loan Remaining | Tax Pool |
 | ------------ | -------------- | --------------- | -------------------- | ----------------- | -------------- | -------- |
