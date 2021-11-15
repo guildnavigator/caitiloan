@@ -34,7 +34,7 @@ Dad pays +tax:    	-$818.05
 Total:            	-$6,818.05  
 	
 Loan Amount:        	 **$2,900.00** ($9,718.05 - $6,818.05)   
-Loan Rate:           	 **0%**  
+Loan Rate:           	 **0%** Wow thanks Dad!  
 	
 ### Monthly Payments Breakdown  
 Number of payments:	12  
