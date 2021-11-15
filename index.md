@@ -36,7 +36,7 @@ Loan Amount:        	 **$2,900.00** ($9,718.05 - $6,818.05)
 Loan Rate:           	 **0%**  
 	
 ### Monthly Payments Breakdown  
-Number of payments:	12
+Number of payments:	12  
 Applied to loan:	$241.67  
 Insurance:           	$100.00  
 Total Monthly:       	$341.67  
@@ -46,7 +46,7 @@ Overage applied
 to property taxes:	$8.33 
 
 ### Bi-Monthly Payments Breakdown (if paying twice a month)
-Number of payments:	24
+Number of payments:	24  
 Applied to loan:	$120.84  
 Insurance:           	$50.00  
 Total Monthly:       	$170.84  
