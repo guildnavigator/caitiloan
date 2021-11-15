@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+## Welcome to Caiti's Loan!
 
-You can use the [editor on GitHub](https://github.com/guildnavigator/caitiloan/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Here is information about your loan history and current balance. Enjoy!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 2012 Ford Focus
 
-### Markdown
+| Payment Date | Payment Amount | Applied to loan | Applied to Insurance | Overpay for taxes | Loan Remaining | Tax Pool |
+| ------------ | -------------- | --------------- | -------------------- | ----------------- | -------------- | -------- |
+|              |                |                 |                      |                   | $5,900.00      | $0.00    |
+| 8/18/21      | $3,000.00      | $3,000.00       | $0.00                | $0.00             | $2,900.00      |          |
+| 8/18/21      | $175.00        | $120.84         | $50.00               | $4.17             | $2,779.17      | $4.17    |
+| 9/1/21       | $175.00        | $120.84         | $50.00               | $4.17             | $2,658.33      | $8.33    |
+| 9/6/21       | $175.00        | $120.84         | $50.00               | $4.17             | $2,537.50      | $12.50   |
+| 9/15/21      | $175.00        | $120.84         | $50.00               | $4.17             | $2,416.66      | $16.66   |
+| 9/30/21      | $175.00        | $120.84         | $50.00               | $4.17             | $2,295.83      | $20.83   |
+| 10/15/21     | $175.00        | $120.84         | $50.00               | $4.17             | $2,174.99      | $24.99   |
+| 11/1/21      | $175.00        | $120.84         | $50.00               | $4.17             | $2,054.16      | $29.16   |
+| 11/15/21     | $175.00        | $120.84         | $50.00               | $4.17             | $1,933.32      | $33.32   |
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### More Details
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/guildnavigator/caitiloan/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Car price:	        $8,900.00 
+Taxes:    	        $759.08 
+Title fee:	        $14.50 
+Transaction fee:	  $44.47 
+Total:	            $9,718.05 
+	
+	
+Your Savings:     	 $2,000.00 
+Mom:	               $1,000.00 
+Dad match:           $3,000.00 
+Dad pays +tax:    	 $818.05 
+Total:            	 $6,818.05 
+	
+Remaining:        	 $2,900.00 
+Loan Rate:           0%
+	
+12 Monthly Payments
+Applied to loan:	   $241.67 
+Insurance:           $100.00 
+Total Monthly:       $341.67 
+	
+Round up:            $350.00
+Overage applied 
+to property taxes:	 $8.33 
