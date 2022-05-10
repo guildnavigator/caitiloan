@@ -66,3 +66,6 @@ Total Monthly:       	$170.84
 Round up:            	$175.00  
 Overage applied  
 to property taxes:	$4.16 
+
+
+https://guildnavigator.github.io/caitiloan/
